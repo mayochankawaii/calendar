@@ -6,3 +6,4 @@ class EventsController < ApplicationController
       format.json { render 'calendar' }
     end
   end
+end
